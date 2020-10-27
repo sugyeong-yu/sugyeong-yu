@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sugyeong-yu&theme=radical&show_icons=True)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sugyeong-yu&theme=onedark&show_icons=True)]
 
 &hide=stars,issues
 <!--
